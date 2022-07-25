@@ -1,0 +1,2 @@
+Esse site foi recriado e alterado por mim, Pedro Victor, como treinamento colocando em prática meus conhecimentos de html5 e css3.
+O site é um desafio do Professor Gustavo Guanabara do canal Curso em Vídeo.
